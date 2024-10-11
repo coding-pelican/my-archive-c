@@ -1,3 +1,19 @@
+/**
+ * @file    test_shallow_deep_copy.c
+ * @author  Gyeongtae Kim(dev-dasae) <codingpelican@gmail.com>
+ * @date    2021-10-10 (date of creation)
+ * @updated 2024-10-11 (date of last update)
+ * @version v0.1.1
+ * @ingroup test
+ * @prefix  NONE
+ *
+ * @brief   shallow copy vs deep copy
+ * @details This file is a test code for shallow copy vs deep copy. without using any library.
+ *
+ * @copyright Copyright 2024. Gyeongtae Kim All rights reserved.
+ */
+
+
 #pragma region Shallow_Deep_Copy
 #define unused(x) (void)x
 
